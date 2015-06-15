@@ -1,0 +1,7 @@
+[nginx-release]
+name=nginx repo
+baseurl=http://nginx.org/packages/rhel/6/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=http://nginx.org/keys/nginx_signing.key
+priority=1
